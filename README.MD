@@ -1,3 +1,10 @@
+## Use-cases
+This repository can be used for the problems pertaining to allocation problems, specifically which involve preference ordering(read [stable matching problem](https://en.wikipedia.org/wiki/Stable_marriage_problem) from both parties. The algorithm employed is a tailored version of [Gale-Shapley algorithm](https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm) to cater many-one matchings. 
+
+The common use-cases for these could be for *Project allocation to students, Courses allocation, team formations, etc.*
+
+> This was used to allocate projects to the students during the summer'22 for the projects offered by [Science and Technology Council](https://sntiitk.in/), [IIT Kanpur](https://www.iitk.ac.in/).
+
 ## Running
 **Before running please read through the [instructions](INSTRUCTIONS.md)!**
 ```bash
